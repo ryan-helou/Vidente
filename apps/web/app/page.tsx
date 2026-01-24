@@ -39,7 +39,7 @@ export default function Home() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <Sparkles className="h-6 w-6 text-primary" />
-              <h1 className="text-xl font-bold">PolyVeracity AI</h1>
+              <h1 className="text-xl font-bold">Vidente</h1>
             </div>
             {hasStarted && (
               <Button variant="outline" size="sm" onClick={handleReset}>

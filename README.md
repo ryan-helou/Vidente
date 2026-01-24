@@ -1,4 +1,4 @@
-# PolyVeracity AI
+# Vidente
 
 **Turning the Web into your Alpha. Validate any Polymarket trade with AI-powered research.**
 

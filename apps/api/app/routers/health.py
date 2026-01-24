@@ -9,5 +9,5 @@ async def health_check():
     return {
         "status": "healthy",
         "version": "1.0.0",
-        "service": "polyveracity-api",
+        "service": "vidente-api",
     }
