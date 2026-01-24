@@ -4,7 +4,7 @@ from app.config import settings
 from app.routers import analyze, health
 
 app = FastAPI(
-    title="PolyVeracity AI",
+    title="Vidente",
     description="AI-powered Polymarket trade validation",
     version="1.0.0",
 )
@@ -25,7 +25,7 @@ app.include_router(analyze.router, prefix="/api", tags=["Analyze"])
 
 @app.get("/")
 async def root():
-    return {"message": "PolyVeracity AI API", "version": "1.0.0"}
+    return {"message": "Vidente API", "version": "1.0.0"}
 
 
 if __name__ == "__main__":

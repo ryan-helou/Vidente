@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "PolyVeracity AI",
+  title: "Vidente",
   description: "AI-powered Polymarket trade validation. Turn the web into your alpha.",
 };
 
