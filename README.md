@@ -1,6 +1,8 @@
-# Vidente
+# 🔮 Vidente
 
 *Give it a Polymarket bet and it researches the web to tell you whether the market's odds are wrong.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 Prediction markets price events as probabilities, but the price is only as good as the crowd's information. Vidente takes a single market — pasted as a Polymarket URL, typed as a plain-text question, or dropped in as a screenshot — and runs an autonomous research pass to decide whether the current odds are fair or mispriced. It streams the whole process back to a split-screen UI so you watch the agent reason, search, and read sources in real time before it commits to a call.
 
