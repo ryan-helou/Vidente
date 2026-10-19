@@ -1,4 +1,5 @@
 # 🔮 Vidente
+Made by Ryan Helou, Amine Elmoudarrib and Daniel Fagang
 
 *Give it a Polymarket bet and it researches the web to tell you whether the market's odds are wrong.*
 
