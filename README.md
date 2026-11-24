@@ -4,6 +4,8 @@
 
 **A research tool that looks at a Polymarket bet, searches the web, and gives its opinion on whether the odds are wrong.**
 
+<!-- facts --><img alt="Built at: Hackathon, Jan 2026" src="https://img.shields.io/badge/Built_at-Hackathon,_Jan_2026-24292f?style=for-the-badge"> <img alt="Team: 3 people" src="https://img.shields.io/badge/Team-3_people-24292f?style=for-the-badge"> <img alt="Works with: Polymarket" src="https://img.shields.io/badge/Works_with-Polymarket-24292f?style=for-the-badge">
+
 </div>
 
 <br>
