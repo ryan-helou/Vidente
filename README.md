@@ -10,7 +10,7 @@
 
 <br>
 
-Polymarket is a site where people bet on real-world events, and the price of each bet works like the crowd's guess at how likely it is. Vidente takes one of those bets, has an AI read trustworthy sources about it, and compares what it finds with the current odds. You can watch it think, search and read in real time on screen before it gives a verdict. It was built at a hackathon by Ryan Helou, Amine Elmoudarrib and Daniel Fagang. It's an early, working demo, not a finished product, and not financial advice.
+Polymarket is a site where people bet on real-world events, and the price of each bet works like the crowd's guess at how likely it is. Vidente takes one of those bets, has an AI read trustworthy sources about it, and compares what it finds with the current odds. You can watch it think, search and read in real time on screen before it gives a verdict. I built it at a hackathon with Amine Elmoudarrib and Daniel Fagang. It's a working demo, and not financial advice.
 
 ## What you can do with it
 
